@@ -56,7 +56,7 @@ https://public.tableau.com/views/BellabeatSmartDeviceUsageAnalysisUserActivityTr
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ---
 
